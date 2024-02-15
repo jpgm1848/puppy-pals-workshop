@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  border: solid white 1px;
+  margin: 10px;
+}
+
+.FeaturedPuppy {
+  border: solid white 1px;
+  margin: 10px;
+  padding-right: 10px;
+}
+.indPup {
+  font-weight: bold;
+}
+
+#header {
+  text-decoration: underline;
+}
